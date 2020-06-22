@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/media/fubeixian/_dde_data/MODA-CODE/scala/scala-crud/"), "scala-crud")...
+[debug] Done updating ProjectRef(uri("file:/media/fubeixian/_dde_data/MODA-CODE/scala/scala-crud/"), "scala-crud")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.

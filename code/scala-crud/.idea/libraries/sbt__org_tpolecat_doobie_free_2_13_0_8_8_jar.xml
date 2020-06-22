@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: org.tpolecat:doobie-free_2.13:0.8.8:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.iadmob.com/artifactory/maven-releases/org/tpolecat/doobie-free_2.13/0.8.8/doobie-free_2.13-0.8.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.iadmob.com/artifactory/maven-releases/org/tpolecat/doobie-free_2.13/0.8.8/doobie-free_2.13-0.8.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.cache/coursier/v1/https/repo1.iadmob.com/artifactory/maven-releases/org/tpolecat/doobie-free_2.13/0.8.8/doobie-free_2.13-0.8.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

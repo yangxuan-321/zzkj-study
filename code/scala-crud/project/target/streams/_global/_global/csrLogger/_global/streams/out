@@ -1,0 +1,12 @@
+[debug] downloaded https://repo1.maven.org/maven2/com/trueaccord/scalapb/compilerplugin_2.12/0.10.2/compilerplugin_2.12-0.10.2.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/trueaccord/scalapb/compilerplugin_2.12/0.10.2/compilerplugin_2.12-0.10.2.pom.sha1
+[debug] downloaded https://repo1.iadmob.com/artifactory/maven-releases/com/trueaccord/scalapb/compilerplugin_2.12/0.10.2/compilerplugin_2.12-0.10.2.pom
+[debug] downloaded https://repo1.iadmob.com/artifactory/maven-releases/com/trueaccord/scalapb/compilerplugin_2.12/0.10.2/compilerplugin_2.12-0.10.2.pom.sha1
+[debug] downloaded https://repo.huaweicloud.com/repository/maven/com/trueaccord/scalapb/compilerplugin_2.12/0.10.2/compilerplugin_2.12-0.10.2.pom
+[debug] downloaded https://repo.huaweicloud.com/repository/maven/com/trueaccord/scalapb/compilerplugin_2.12/0.10.2/compilerplugin_2.12-0.10.2.pom.sha1
+[debug] downloaded https://repo1.iadmob.com/artifactory/ivy-release/com.trueaccord.scalapb/compilerplugin_2.12/0.10.2/ivys/ivy.xml
+[debug] downloaded https://repo1.iadmob.com/artifactory/ivy-release/com.trueaccord.scalapb/compilerplugin_2.12/0.10.2/ivys/ivy.xml.sha1
+[debug] downloaded https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.trueaccord.scalapb/compilerplugin_2.12/0.10.2/ivys/ivy.xml
+[debug] downloaded https://repo.scala-sbt.org/scalasbt/sbt-plugin-releases/com.trueaccord.scalapb/compilerplugin_2.12/0.10.2/ivys/ivy.xml.sha1
+[debug] downloaded https://repo.typesafe.com/typesafe/ivy-releases/com.trueaccord.scalapb/compilerplugin_2.12/0.10.2/ivys/ivy.xml
+[debug] downloaded https://repo.typesafe.com/typesafe/ivy-releases/com.trueaccord.scalapb/compilerplugin_2.12/0.10.2/ivys/ivy.xml.sha1
